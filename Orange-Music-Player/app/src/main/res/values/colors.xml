@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#e16826</color>
+    <color name="colorPrimaryDark">#e16826</color>
+
+
+    <color name="textColorSecondary">#FF6C7589</color>
+    <color name="pink">#e16826</color>
+
+
+    <color name="black">#ff000000</color>
+    <color name="white">#ffffff</color>
+
+    <color name="gray">#FF6C7589</color>
+    <color name="_light_gray">#FF6C7589</color>
+    <color name="darkgray">#A9A9A9</color>
+    <color name="kitkat_blue">#33b5e5</color>
+    <color name="green">#006103</color>
+
+    <color name="transparent_bg">#55000000</color>
+    <color name="brown">#5d4037</color>
+    <color name="deep_purple">#673ab7</color>
+
+    <!-- Gradient background colors -->
+    <color name="start_color">#f69054</color>
+    <color name="center_color">#e16826</color>
+    <color name="end_color">#c71525</color>
+    <color name="red_button_100">#ffb8290b</color>
+    <color name="red_button_50">#80b8290b</color>
+    <color name="main_orange">#faaf40</color>
+
+
+    <!-- About Us colour pickers -->
+    <color name="divider_color">#faaf40</color>
+    <color name="light_gray">#d3d3d3</color>
+    <color name="mb_white">#ffffff</color>
+    <color name="white_10_percent">#1affffff</color>
+    <color name="white_25_percent">#40ffffff</color>
+    <color name="white_30_percent">#4affffff</color>
+    <color name="white_80_percent">#ccffffff</color>
+
+</resources>

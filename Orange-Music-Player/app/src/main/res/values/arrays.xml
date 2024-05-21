@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="menuOptions">
+        <item>About</item>
+        <item>Equalizer</item>
+
+    </array>
+
+
+    <string-array name="ld_activityScreenTitles">
+        <item>About</item>
+        <item>Equalizer</item>
+
+    </string-array>
+
+    <array name="ld_activityScreenIcons">
+        <item>@drawable/privacy</item>
+        <item>@drawable/ic_equalizer_svgrepo_com__1_</item>
+
+    </array>
+
+</resources>
